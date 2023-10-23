@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 夏加豪
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Jiahao Xia
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jiahao
+last_name: Xia
 
 # Status emoji
 status:
@@ -17,21 +17,20 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student in Civil and Environmental Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Rutgers, the State University of New Jersey
+    url: https://www.rutgers.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Disaster Management
 
 # Education to show in About widget
 education:
