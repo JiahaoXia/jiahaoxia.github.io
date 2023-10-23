@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 夏加豪
+title: Jiahao Xia
 
 # Name pronunciation (optional)
 name_pronunciation: Jiahao Xia
 
 # Full name (for SEO)
-first_name: Jiahao
-last_name: Xia
+first_name: 
+last_name: 
 
 # Status emoji
 status:
