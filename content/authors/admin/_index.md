@@ -6,8 +6,8 @@ title: Jiahao Xia
 name_pronunciation: Jiahao Xia
 
 # Full name (for SEO)
-first_name: 
-last_name: 
+first_name: 加豪
+last_name: 夏
 
 # Status emoji
 status:
@@ -29,21 +29,22 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Computer Vision
+  - Computer Vision and Machine Learning
+  - Mobile and static LiDAR
   - Disaster Management
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Civil and Environmental Engineering
+      institution: Rutgers University
+      year: Excepted 2024
+    - course: M.S. in Photogrammetry and Remote Sensing
+      institution: Wuhan University
+      year: 2019
+    - course: B.S. in Geodesy and Geomatics
+      institution: Wuhan University
+      year: 2016
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
