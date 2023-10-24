@@ -19,6 +19,14 @@ links:
     icon_pack: custom
     name: poster
     url: uploads/NJDOTResearchShowcase-Gong.pdf
+  - icon: video
+    icon_pack: custom
+    name: Asbury (RU VPN required)
+    url: http://172.17.106.5:3003/traffic-analysis/?location=asbury
+  - icon: video
+    icon_pack: custom
+    name: Rutgers (RU VPN required)
+    url: http://172.17.106.5:3003/traffic-analysis/?location=rutgers
 
 url_code: ''
 url_pdf: ''

@@ -15,7 +15,7 @@ image:
 links:
   - icon: video
     icon_pack: custom
-    name: paper
+    name: paper (under review)
     url: 
 
 url_code: ''
