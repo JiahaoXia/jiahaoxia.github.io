@@ -168,8 +168,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Dashboard
+          tag: Dashboard
         - name: Other
           tag: Demo
     design:
@@ -177,7 +177,7 @@ sections:
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: True
   # - block: markdown
   #   content:
   #     title: Gallery
