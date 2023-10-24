@@ -23,9 +23,9 @@ abstract: In this paper, a Segment Anything Model (SAM)-based pedestrian infrast
 # Summary. An optional shortened abstract.
 summary: 
 
-# tags:
-# - Source Themes
-# featured: false
+tags:
+- Source Themes
+featured: false
 
 links:
 # - name:
@@ -61,6 +61,10 @@ url_pdf: https://arxiv.org/abs/2310.09918
 #   Otherwise, set `slides: ""`.
 # slides:
 
+
+---
+
+---
 title: "Computer Vision based First Floor Elevation Estimation from Mobile LiDAR
 Data"
 authors:
