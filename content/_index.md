@@ -170,6 +170,8 @@ sections:
           tag: '*'
         - name: Dashboard
           tag: Dashboard
+        - name: Research
+          tag: Research
         - name: Other
           tag: Demo
     design:

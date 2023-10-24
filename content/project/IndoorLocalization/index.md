@@ -1,8 +1,8 @@
 ---
 title:  Indoor Localization with 3D Facility Scan Data
-summary: Visual indoor localization for smart indoor services is a growing field of interest as cameras are now ubiquitously equipped on smart phones. In this study, a hierarchi-cal indoor localization algorithm is designed and validated based on 3D facility scan data, which are originally collected for facility modeling purposes. The study has shown promising results in indoor localization. The study also demonstrated a scalable approach to generate high-quality images with reference poses from laser scan data, opening doors to generate labelled images to train end-to-end pose regression model (i.e., PoseNet). In this regard, this study is the first attempt to leverage facility scan data, which are commonly collected for BIM purpose, for indoor localization. As more facilities are documented with laser scanners, our Algorithm can unlock additional values of collected data for intelligent applications.
+summary: Visual indoor localization for smart indoor services is a growing field of interest as cameras are now ubiquitously equipped on smart phones. In this study, a hierarchical indoor localization algorithm is designed and validated based on 3D facility scan data. The study has shown promising results in indoor localization. As more facilities are documented with laser scanners, our Algorithm can unlock additional values of collected data for intelligent applications.
 tags:
-  - Dashboard
+  - Research
 date: '2021-09-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
