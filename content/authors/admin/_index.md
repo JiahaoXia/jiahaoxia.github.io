@@ -3,7 +3,7 @@
 title: Jiahao Xia
 
 # Name pronunciation (optional)
-name_pronunciation: Jiahao Xia
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: 加豪
@@ -77,10 +77,10 @@ social:
     link: '/#contact'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/JiahaoXia
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -89,7 +89,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Jiahao Xia-v4.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
