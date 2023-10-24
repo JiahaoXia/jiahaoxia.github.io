@@ -20,7 +20,7 @@ links:
   - icon: video
     icon_pack: custom
     name: poster
-    url: https://github.com/JiahaoXia/jiahaoxia.github.io/tree/main/static/uploads/NJDOTPoster-JiahaoXia.pdf
+    url: uploads/NJDOTPoster-JiahaoXia.pdf
 
 url_code: ''
 url_pdf: ''
