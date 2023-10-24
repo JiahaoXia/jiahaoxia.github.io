@@ -23,9 +23,9 @@ abstract: In this paper, a Segment Anything Model (SAM)-based pedestrian infrast
 # Summary. An optional shortened abstract.
 summary: 
 
-tags:
-- Source Themes
-featured: false
+# tags:
+# - Source Themes
+# featured: false
 
 links:
 # - name:
