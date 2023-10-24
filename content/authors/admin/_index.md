@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Civil and Environmental Engineering
+role: Ph.D. Candidate in Civil and Environmental Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: https://www.rutgers.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a dedicated PhD student in Civil and Environmental Engineering, with a profound passion for harnessing the power of machine learning and computer vision to extract critical insights from point clouds and images. My research focus revolves around enhancing the resilience of vulnerable communities to natural hazards, as well as improving accessibility for individuals with travel-limiting disabilities.
+bio: I am a dedicated PhD candidate in Civil and Environmental Engineering, with a profound passion for harnessing the power of machine learning and computer vision to extract critical insights from point clouds and images. My research focus revolves around enhancing the resilience of vulnerable communities to natural hazards, as well as improving accessibility for individuals with travel-limiting disabilities.
 
 # Interests to show in About widget
 interests:
