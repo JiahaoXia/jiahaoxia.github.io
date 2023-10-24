@@ -3,11 +3,11 @@ title: "Segment Anything Model for Pedestrian
 Infrastructure Inventory: Assessing Zero-Shot Segmentation on Multi-Mode Geospatial Data"
 authors:
 - Jiahao Xia, Gavin Gong, Jiawei Liu, Zhigang Zhu, and Hao Tang
-date: ""
+date: "2023-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023"
+publishDate: "2023-12-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -62,16 +62,6 @@ url_pdf: https://arxiv.org/abs/2310.09918
 # slides:
 
 
----
-
----
-title: "Computer Vision based First Floor Elevation Estimation from Mobile LiDAR
-Data"
-authors:
-- Jiahao Xia, Jie Gong
-publishDate: "2023"
-publication: "Automation in Construction"
-abstract: First Floor Elevation (FFE) of a house is crucial information for flood management and for accurately assessing the flood exposure risk of a property. However, the lack of reliable FFE data on a large geographic scale significantly limits efforts to mitigate flood risk, such as decision on elevating a property. The traditional method of collecting elevation data of a house relies on time-consuming and labor-intensive on-site inspections conducted by licensed surveyors or engineers. In this paper, we propose an automated and scalable method for extracting FFE from mobile LiDAR point cloud data. The fine-tuned yolov5 model is employed to detect doors, windows, and garage doors on the intensity-based projection of the point cloud, achieving an mAP@0.5:0.95 of 0.689. Subsequently, FFE is estimated using detected objects. We evaluated the Median Absolute Error (MAE) metric for the estimated FFE in Manville, Ventnor, and Longport, which resulted in values of 0.2 feet, 0.27 feet, and 0.24 feet, respectively. The availability of FFE data has the potential to provide valuable guidance for setting flood insurance premiums and facilitating benefit-cost analyses of buyout programs targeting residential buildings with a high flood risk.
 ---
 
 {{% callout note %}}
