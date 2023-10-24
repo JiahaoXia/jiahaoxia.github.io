@@ -1,7 +1,7 @@
 ---
 title: Tactical Urbanism Experiments to Enhance Road User Safety in Asbury Park
 authors:
-- Younes Hannah
+- Hannah Younes
 - Wenwen Zhang
 - Clinton Andrews
 - Song Wen
