@@ -1,7 +1,8 @@
 ---
 title: "Computer Vision based First Floor Elevation Estimation from Mobile LiDAR Data"
 authors:
-- Jiahao Xia, Jie Gong
+- Jiahao Xia
+- Jie Gong
 date: "2023-10-01T00:00:00Z"
 doi: ""
 
