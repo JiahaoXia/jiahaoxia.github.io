@@ -75,12 +75,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -101,5 +95,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a dedicated PhD student in Civil and Environmental Engineering, with a profound passion for harnessing the power of machine learning and computer vision to extract critical insights from point clouds and images. My research focus revolves around enhancing the resilience of vulnerable communities to natural hazards, as well as improving accessibility for individuals with travel-limiting disabilities.
 {style="text-align: justify;"}
