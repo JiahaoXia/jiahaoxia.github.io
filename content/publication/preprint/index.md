@@ -3,16 +3,16 @@ title: "Segment Anything Model for Pedestrian
 Infrastructure Inventory: Assessing Zero-Shot Segmentation on Multi-Mode Geospatial Data"
 authors:
 - Jiahao Xia, Gavin Gong, Jiawei Liu, Zhigang Zhu, and Hao Tang
-date: "2023-12-01T00:00:00Z"
+date: "2023-10-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-12-01T00:00:00Z"
+publishDate: "2023-10-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -60,8 +60,6 @@ url_pdf: https://arxiv.org/abs/2310.09918
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides:
-
-
 ---
 
 {{% callout note %}}
