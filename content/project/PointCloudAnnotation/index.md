@@ -13,10 +13,22 @@ image:
   focal_point: Smart
 
 links:
-  - icon: Youtube
-    icon_pack: fab
+  - icon: video
+    icon_pack: custom
     name: data organization
     url: https://www.youtube.com/watch?v=juui8y-eESk
+  - icon: video
+    icon_pack: custom
+    name: elevation extraction
+    url: https://youtu.be/WVGBPgQ4LM4
+  - icon: video
+    icon_pack: custom
+    name: building diagram
+    url: https://youtu.be/Ci9piI7dFMM
+  - icon: video
+    icon_pack: custom
+    name: flood level estimation
+    url: https://youtu.be/aWqWxofR3VE
 url_code: ''
 url_pdf: ''
 url_slides: ''
