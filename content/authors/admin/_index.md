@@ -25,7 +25,7 @@ organizations:
     url: https://www.rutgers.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a dedicated PhD student in Civil and Environmental Engineering, with a profound passion for harnessing the power of machine learning and computer vision to extract critical insights from point clouds and images. My research focus revolves around enhancing the resilience of vulnerable communities to natural hazards, as well as improving accessibility for individuals with travel-limiting disabilities.
 
 # Interests to show in About widget
 interests:
@@ -51,40 +51,21 @@ education:
 skills:
   - name: Technical
     items:
-    - name: Python
+    - name: Python, PyTorch, Tensorflow, HTML, CSS, JavaScript
       description: ''
       percent: 80
-      icon: python
-      icon_pack: fab
-    - name: Data Science
+      icon: programming
+      icon_pack: custom
+    - name: Mobile Mapping System (MMS), Z+F Scanner, Faro Scanner
       description: ''
-      percent: 100
-      icon: chart-line
-      icon_pack: fas
-    - name: SQL
+      percent: 80
+      icon: tools
+      icon_pack: custom
+    - name: C++, R, MATLAB, ArcGIS
       description: ''
-      percent: 40
-      icon: database
-      icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+      percent: 60
+      icon: programming
+      icon_pack: custom
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
