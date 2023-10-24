@@ -237,10 +237,9 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        You can contact me using the below email or phone number.:
+        You can contact me using the below email:
       # Contact (add or remove contact options as necessary)
       email: jx198@soe.rutgers.edu
-      phone: 2013490703
       # appointment_url: 'https://calendly.com'
       # address:
       #   street: 450 Serra Mall
