@@ -95,5 +95,5 @@ social:
 highlight_name: true
 ---
 
-I am a dedicated PhD student in Civil and Environmental Engineering, with a profound passion for harnessing the power of machine learning and computer vision to extract critical insights from point clouds and images. My research focus revolves around enhancing the resilience of vulnerable communities to natural hazards, as well as improving accessibility for individuals with travel-limiting disabilities.
+I am a dedicated PhD candidate in Civil and Environmental Engineering, with a profound passion for harnessing the power of machine learning and computer vision to extract critical insights from point clouds and images. My research focus revolves around enhancing the resilience of vulnerable communities to natural hazards, as well as improving accessibility for individuals with travel-limiting disabilities.
 {style="text-align: justify;"}
