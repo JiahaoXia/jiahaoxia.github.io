@@ -1,11 +1,11 @@
 ---
-title: Precise indoor localization with 3D facility scan data
+title: The traffic calming effect of delineated bicycle lanes
 authors:
-- Jiahao Xia
-- Jie Gong
-date: '2022-01-01'
-publishDate: '2023-10-24T14:20:20.236506Z'
+- Younes, Hannah, Clinton J. Andrews, Robert B. Noland, Jiahao Xia, Song Wen, Wenwen Zhang, Leigh Ann
+Von Hagen, Dimitri Metaxas, Jie Gong
+date: '2023-01-01'
+publishDate: '2023-9-24T14:20:20.236506Z'
 publication_types:
-- article-journal
-publication: '*Computer-Aided Civil and Infrastructure Engineering*'
+- paper-conference
+publication: 'TRB Annual Meeting'
 ---
