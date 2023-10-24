@@ -1,7 +1,8 @@
 ---
-title: "Computer Vision based First Floor Elevation Estimation from Mobile LiDAR Data"
+title: "Segment Anything Model for Pedestrian
+Infrastructure Inventory: Assessing Zero-Shot Segmentation on Multi-Mode Geospatial Data"
 authors:
-- Jiahao Xia, Jie Gong
+- Jiahao Xia, Gavin Gong, Jiawei Liu, Zhigang Zhu, and Hao Tang
 date: "2023-10-01T00:00:00Z"
 doi: ""
 
@@ -14,10 +15,10 @@ publishDate: "2023-10-01T00:00:00Z"
 publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Automation in Construction"
+publication: ""
 publication_short: ""
 
-abstract: First Floor Elevation (FFE) of a house is crucial information for flood management and for accurately assessing the flood exposure risk of a property. However, the lack of reliable FFE data on a large geographic scale significantly limits efforts to mitigate flood risk, such as decision on elevating a property. The traditional method of collecting elevation data of a house relies on time-consuming and labor-intensive on-site inspections conducted by licensed surveyors or engineers. In this paper, we propose an automated and scalable method for extracting FFE from mobile LiDAR point cloud data. The fine-tuned yolov5 model is employed to detect doors, windows, and garage doors on the intensity-based projection of the point cloud, achieving an mAP@0.5:0.95 of 0.689. Subsequently, FFE is estimated using detected objects. We evaluated the Median Absolute Error (MAE) metric for the estimated FFE in Manville, Ventnor, and Longport, which resulted in values of 0.2 feet, 0.27 feet, and 0.24 feet, respectively. The availability of FFE data has the potential to provide valuable guidance for setting flood insurance premiums and facilitating benefit-cost analyses of buyout programs targeting residential buildings with a high flood risk.
+abstract: In this paper, a Segment Anything Model (SAM)-based pedestrian infrastructure segmentation workflow is designed and optimized, which is capable of efficiently processing multi-sourced geospatial data including LiDAR data and satellite imagery data. We used an expanded definition of pedestrian infrastructure inventory which goes beyond the traditional transportation elements to include street furniture objects often omitted from the traditional definition. Our contributions lie in producing the necessary knowledge to answer the following two questions. First, which data representation can facilitate zero-shot segmentation of infrastructure objects with SAM? Second, how well does the SAM-based method perform on segmenting pedestrian infrastructure objects? Our findings indicate that street view images generated from mobile LiDAR point cloud data, when paired along with satellite imagery data, can work efficiently with SAM to create a scalable pedestrian infrastructure inventory approach with immediate benefits to GIS professionals, city managers, transportation owners, and walkers, especially those with travel-limiting disabilities.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -29,7 +30,7 @@ featured: false
 links:
 # - name:
 #   url:
-# url_pdf:
+url_pdf: https://arxiv.org/abs/2310.09918
 # url_code: 
 # url_dataset:
 # url_poster: 
