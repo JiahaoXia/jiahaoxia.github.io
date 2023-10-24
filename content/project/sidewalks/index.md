@@ -1,5 +1,5 @@
 ---
-title:  "Segment Anything Model for Pedestrian Infrastructure Inventory: Assess Zero-Shot Segmentation on Multi-Mode Geospatial Data"
+title:  Segment Anything Model for Pedestrian Infrastructure Inventory-Assess Zero-Shot Segmentation on Multi-Mode Geospatial Data
 summary: In this paper, a Segment Anything Model (SAM)-based pedestrian infrastructure segmentation workflow is designed and optimized, which is capable of efficiently processing multi-sourced geospatial data including LiDAR data and satellite imagery data.
 tags:
   - Research
