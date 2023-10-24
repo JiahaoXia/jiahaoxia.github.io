@@ -2,8 +2,8 @@
 title: "Segment Anything Model for Pedestrian
 Infrastructure Inventory: Assessing Zero-Shot Segmentation on Multi-Mode Geospatial Data"
 authors:
-- admin, Gavin Gong, Jiawei Liu, Zhigang Zhu, and Hao Tang
-date: ""
+- Jiahao Xia, Gavin Gong, Jiawei Liu, Zhigang Zhu, and Hao Tang
+date: "2023"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
