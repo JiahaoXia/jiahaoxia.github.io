@@ -1,8 +1,8 @@
 ---
 title:  3D Point Cloud Segmentation using Segment Anything Model (SAM)
-summary: First Floor Elevation (FFE) of a house is crucial information for flood management and for accurately assessing the flood exposure risk of a property. However, the lack of reliable FFE data on a large geographic scale significantly limits efforts to mitigate flood risk, such as decision on elevating a property. In this paper, we propose an automated and scalable method for extracting FFE from mobile LiDAR point cloud data.
+summary: Segment Anything Model (SAM) is designed and trained to be promptable and shows strong zero-shot image segmentation capability. 3D point cloud segmentation is a challenging task due to the lack of labeled data. We designed a SAM-based 3D point cloud segmentation workflow and it improves the efficiency of 3D point cloud segmentation. High quality 3D point cloud is projected into 2D images using intensity or RGB information of the point cloud. Image embeddings are extracted using the image encoder of the Mobile SAM, a lightweight version of SAM suitable for mobile applications, and can be queried by prompts to generate segmentation masks. The segmentation masks are then projected back to the 3D point cloud to generate the final segmentation results.
 tags:
-  - Research
+  - Dashboard
 date: '2021-09-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
