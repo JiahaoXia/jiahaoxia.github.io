@@ -1,5 +1,5 @@
 ---
-title: "Computer Vision based First Floor Elevation Estimation from Mobile LiDAR Data"
+title: "Computer vision based first floor elevation estimation from mobile LiDAR data"
 authors:
 - Jiahao Xia
 - Jie Gong
@@ -12,7 +12,8 @@ publishDate: "2023-10-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["preprint"]
+publication_types: 
+- article-journal
 
 # Publication name and optional abbreviated publication name.
 publication: "Automation in Construction"

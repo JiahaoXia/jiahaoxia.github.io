@@ -15,8 +15,8 @@ image:
 links:
   - icon: video
     icon_pack: custom
-    name: paper (under review)
-    url: 
+    name: paper
+    url: https://www.sciencedirect.com/science/article/pii/S0926580523005186
 
 url_code: ''
 url_pdf: ''
