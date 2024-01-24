@@ -15,9 +15,8 @@ image:
 links:
   - icon: video
     icon_pack: custom
-    name: paper (under review)
-    url: 
-
+    name: dashboard (RU VPN required)
+    url: http://18.206.22.177/point-cloud-segmentation/login
 url_code: ''
 url_pdf: ''
 url_slides: ''
