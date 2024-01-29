@@ -1,5 +1,5 @@
 ---
-title: "Pedestrian Accessible Infrastructure Inventory: Assessing Zero-Shot Segmentation on Multi-Mode Geospatial Data for All Pedestrian Types."
+title: "Pedestrian Accessible Infrastructure Inventory: Assessing Zero-Shot Segmentation on Multi-Mode Geospatial Data for All Pedestrian Types"
 authors:
 - Jiahao Xia
 - Gavin Gong
