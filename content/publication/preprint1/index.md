@@ -1,6 +1,5 @@
 ---
-title: "Segment Anything Model for Pedestrian
-Infrastructure Inventory: Assessing Zero-Shot Segmentation on Multi-Mode Geospatial Data"
+title: "Pedestrian Accessible Infrastructure Inventory: Assessing Zero-Shot Segmentation on Multi-Mode Geospatial Data for All Pedestrian Types."
 authors:
 - Jiahao Xia
 - Gavin Gong
@@ -22,7 +21,8 @@ publication_types: ["preprint"]
 publication: ""
 publication_short: ""
 
-abstract: In this paper, a Segment Anything Model (SAM)-based pedestrian infrastructure segmentation workflow is designed and optimized, which is capable of efficiently processing multi-sourced geospatial data including LiDAR data and satellite imagery data. We used an expanded definition of pedestrian infrastructure inventory which goes beyond the traditional transportation elements to include street furniture objects often omitted from the traditional definition. Our contributions lie in producing the necessary knowledge to answer the following two questions. First, which data representation can facilitate zero-shot segmentation of infrastructure objects with SAM? Second, how well does the SAM-based method perform on segmenting pedestrian infrastructure objects? Our findings indicate that street view images generated from mobile LiDAR point cloud data, when paired along with satellite imagery data, can work efficiently with SAM to create a scalable pedestrian infrastructure inventory approach with immediate benefits to GIS professionals, city managers, transportation owners, and walkers, especially those with travel-limiting disabilities.
+abstract:
+# abstract: In this paper, a Segment Anything Model (SAM)-based pedestrian infrastructure segmentation workflow is designed and optimized, which is capable of efficiently processing multi-sourced geospatial data including LiDAR data and satellite imagery data. We used an expanded definition of pedestrian infrastructure inventory which goes beyond the traditional transportation elements to include street furniture objects often omitted from the traditional definition. Our contributions lie in producing the necessary knowledge to answer the following two questions. First, which data representation can facilitate zero-shot segmentation of infrastructure objects with SAM? Second, how well does the SAM-based method perform on segmenting pedestrian infrastructure objects? Our findings indicate that street view images generated from mobile LiDAR point cloud data, when paired along with satellite imagery data, can work efficiently with SAM to create a scalable pedestrian infrastructure inventory approach with immediate benefits to GIS professionals, city managers, transportation owners, and walkers, especially those with travel-limiting disabilities.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -34,7 +34,7 @@ featured: false
 links:
 # - name:
 #   url:
-url_pdf: https://arxiv.org/abs/2310.09918
+# url_pdf: https://arxiv.org/abs/2310.09918
 # url_code: 
 # url_dataset:
 # url_poster: 
