@@ -75,15 +75,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.com
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.com
   - icon: github
     icon_pack: fab
     link: https://github.com/JiahaoXia
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/jhx
+    link: https://www.linkedin.com/in/jhx/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
