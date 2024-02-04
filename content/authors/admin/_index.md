@@ -56,7 +56,7 @@ skills:
       percent: 80
       icon: programming
       icon_pack: custom
-    - name: Mobile Mapping System (MMS), Z+F Scanner, Faro Scanner
+    - name: Mobile Mapping System (MMS), Z+F LiDAR, Faro Focus3D LiDAR
       description: ''
       percent: 80
       icon: tools
@@ -87,9 +87,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/JiahaoXia-CV.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/JiahaoXia-CV.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
