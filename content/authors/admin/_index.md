@@ -31,7 +31,7 @@ bio: I am a dedicated PhD candidate in Civil and Environmental Engineering, with
 interests:
   - Computer Vision and Machine Learning
   - Mobile and static LiDAR
-  - Disaster Management
+  - Natural Disaster Damage Assessment
 
 # Education to show in About widget
 education:
